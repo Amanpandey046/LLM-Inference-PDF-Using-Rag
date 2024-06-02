@@ -1,14 +1,13 @@
 # LLM-Inference-PDF-Using-Rag
 
-Description
-This Python script enables users to query financial statements using a combination of Large Language Models (LLM) and Retrieval Models. It processes PDF files containing financial data and generates responses based on user queries.
+# Description
+• This Python script enables users to query financial statements using a combination of Large Language Models (LLM) and Retrieval Models. It processes PDF files containing financial data and generates responses based on user queries.
 
-Installation
+# Installation
 Clone the repository:
-
 bash
 Copy code
-git clone https://github.com/your-username/financial-statement-query-system.git
+https://github.com/Amanpandey046/LLM-Inference-PDF-Using-Rag.git
 cd financial-statement-query-system
 Install dependencies:
 
