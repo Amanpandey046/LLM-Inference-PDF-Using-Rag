@@ -10,15 +10,16 @@ bash
 Copy code
 https://github.com/Amanpandey046/LLM-Inference-PDF-Using-Rag.git
 ```
-Install dependencies:
-
+2. Install dependencies:
+```
 bash
 Copy code
 pip install -r requirements.txt
-Download pre-trained models:
-
-Mistral-7B-Instruct-v0.1 model from Hugging Face
-Sentence Transformer model: sentence-transformers/all-mpnet-base-v2
+```
+3. Download pre-trained models:
+* Mistral-7B-Instruct  model from https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/blob/main/mistral-7b-instruct-v0.1.Q8_0.gguf
+* Sentence Transformer model: sentence-transformers/all-mpnet-base-v2
+  
 Usage
 Prepare PDF files in the specified directory (pdf_dir_path).
 Run the script query_financial_statements.py:
